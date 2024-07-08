@@ -43,8 +43,8 @@ Contributions are welcome. If you wish to improve the project, please open an is
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
-## Conclusion
+## Additional info
 
 This analytics platform is a crucial tool for the Zeitgeist Marketing team, providing the data and insights needed to drive effective marketing strategies and enhance user engagement. By leveraging the power of data, the platform ensures that the Zeitgeist PM continues to grow and evolve in alignment with user behavior and market trends.
